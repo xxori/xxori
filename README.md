@@ -1,1 +1,1 @@
-# xxori - Patrick
+# xxori
