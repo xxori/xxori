@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-I'm Patrick, an software developer studying Adv. Computer Science at the University of Adelaide. 
+I'm Patrick, an software developer studying Bachelor of Mathematical & Computer Sciences at the University of Adelaide. 
